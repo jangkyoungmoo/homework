@@ -1,0 +1,47 @@
+body{
+    background-color: #75756c;
+    font-family: Arial, sans-serif;
+    margin: 50px 250px 150px 250px;
+}
+h1{
+    color: #e9dbdb;
+}
+
+h2{
+    color: #f7f5d3;
+}
+
+p{
+    color: #e48258;
+}
+
+div{
+    background-color: #ffffff;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+span{
+    color: #70f033;
+}
+
+.like{
+    background-color: #ffffff;
+    color: #b1edeb;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.dislike{
+    background-color: #ffffff;
+    color: #ed9ac9;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+li{
+    margin: 10px;
+}
